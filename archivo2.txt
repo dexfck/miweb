@@ -1,2 +1,0 @@
-Texto 2 (ahora modficiado)
-Texto 3 despues del commit
